@@ -11,8 +11,8 @@
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url('https://initiate.alphacoders.com/images/916/cropped-2560-1440-916784.jpg?9838');
-    --home-image: url('https://static.wikia.nocookie.net/megamitensei/images/6/60/Levelup_joker.png/revision/latest/scale-to-width-down/110?cb=20191220173440');
+    --background-image: url('https://images5.alphacoders.com/916/916784.jpg');
+    --home-image: url('https://static.wikia.nocookie.net/megamitensei/images/6/60/Levelup_joker.png/revision/latest');
     --background-solid: #161921;
     --background-solid-dark: #101218;
     --background-solid-darker: #0c0e12;
